@@ -11,7 +11,7 @@ import Category from "../data/category"
 const categories = () => {
 return (
 
- <div className='bg-gray-400 pt-10 py-32'>
+ <div className='bg-red-900 pt-10 py-32'>
 
 <div className="font-sans py-4 mx-auto lg:max-w-7xl md:max-w-3xl max-w-xl ">
 
