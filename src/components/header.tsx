@@ -41,7 +41,7 @@ const Header = () => {
                   </Link>
                 </li>
                 <li className="max-lg:border-b max-lg:py-3 px-3">
-                  <Link href="javascript:void(0)" className="text-[#333] hover:text-[#007bff] text-[15px] block font-semibold">
+                  <Link href="/about" className="text-[#333] hover:text-[#007bff] text-[15px] block font-semibold">
                     About
                   </Link>
                 </li>
